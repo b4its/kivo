@@ -4,6 +4,7 @@ Kivo adalah platform yang bertugas untuk **menemukan ide bisnis untuk anda yang 
 Kivo hadir untuk anda yang ingin **menemukan ide bisnis yang relevan untuk yang akan datang**, dengan prediksi yang **berdasarkan data aktual yang akan menjamin bahwa anda tidak perlu ragu lagi mengenai bisnis apa yang akan menjanjikan di masa akan datang.**
 
 <h4 style="text-align:center">Kivo dibuat dengan mengimplementasikan AI Agent yang telah disediakan oleh platform <b>Kolosal AI</b> </h4>
+
 ## Repository 
 
 **[kivo frontend](https://github.com/manikandareas/kivo-web)** | **[kivo backend](https://github.com/mhaatha/kivo-api)** | **[kivo raw frontend](https://github.com/b4its/fe-kivo-raw)** | **[kivo raw backend](https://github.com/b4its/be-kivo-raw)**
