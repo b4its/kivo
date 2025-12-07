@@ -1,0 +1,3 @@
+[submodule "kivo-frontend"]
+	path = kivo-frontend
+	url = https://github.com/manikandareas/kivo-web
