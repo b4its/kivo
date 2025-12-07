@@ -1,3 +1,6 @@
 [submodule "kivo-frontend"]
 	path = kivo-frontend
 	url = https://github.com/manikandareas/kivo-web
+[submodule "kivo-backend"]
+	path = kivo-backend
+	url = https://github.com/mhaatha/kivo-api
